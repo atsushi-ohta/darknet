@@ -8,11 +8,11 @@
 /content/darknet/data/whill/NS-SS-NR-001-01_09_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-02_01_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-02_02_001.jpg
-/content/darknet/data/whill/NS-SS-NR-001-02_03_001.jpg
+/content/darknet/data/whill/NS-SS-NR-001-02_03r_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-02_04_001.jpg
-/content/darknet/data/whill/NS-SS-NR-001-02_06_001.jpg
+/content/darknet/data/whill/NS-SS-NR-001-02_06r_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-02_07_001.jpg
-/content/darknet/data/whill/NS-SS-NR-001-02_08_001.jpg
+/content/darknet/data/whill/NS-SS-NR-001-02_08r_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-02_09_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-03_01_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-03_02_001.jpg
@@ -75,7 +75,7 @@
 /content/darknet/data/whill/NS-SS-NR-004-01_03_001.jpg
 /content/darknet/data/whill/NS-SS-NR-004-01_04_001.jpg
 /content/darknet/data/whill/NS-SS-NR-004-01_06_001.jpg
-/content/darknet/data/whill/NS-SS-NR-004-01_07_001.jpg
+/content/darknet/data/whill/NS-SS-NR-004-01_07r_001.jpg
 /content/darknet/data/whill/NS-SS-NR-004-01_08_001.jpg
 /content/darknet/data/whill/NS-SS-NR-004-01_09_001.jpg
 /content/darknet/data/whill/NS-SS-NR-004-02_01_001.jpg
