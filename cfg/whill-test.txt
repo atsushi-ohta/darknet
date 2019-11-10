@@ -1,7 +1,7 @@
 /content/darknet/data/whill/NS-SS-NR-001-01_05_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-01_10_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-02_05_001.jpg
-/content/darknet/data/whill/NS-SS-NR-001-02_10r_001.jpg
+/content/darknet/data/whill/NS-SS-NR-001-02_10_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-03_05_001.jpg
 /content/darknet/data/whill/NS-SS-NR-001-03_10_001.jpg
 /content/darknet/data/whill/NS-SS-NR-002-01_05_001.jpg
